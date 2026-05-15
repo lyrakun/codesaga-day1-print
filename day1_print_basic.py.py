@@ -1,4 +1,6 @@
 print("Hello world")
+print("Today i started my python journey")
+print("Codesaga")
 print("I am learning python")
 print(10)
 print("22")
